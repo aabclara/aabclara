@@ -39,9 +39,11 @@
   </tr>
 </table>
 
+---
 > [!IMPORTANT]
 > Errar também é tentar💜
 
+---
 
 🔮 Fale comigo!
 ---
