@@ -1,6 +1,4 @@
  Em desenvolvimento  ... 🛠
- 
-  💜 Oi, eu sou a Clara!
 ---
 
 📓 | Cursando Sistemas de Informação - CEFET-MG
@@ -39,7 +37,6 @@
   </tr>
 </table>
 
----
 > [!IMPORTANT]
 > Errar também é tentar💜
 
